@@ -11,7 +11,12 @@ Website parkir gratis yang di tampilkan pada peta open street map ini menampilka
 Website parkir gratis ini memudahkan pelanggan minimarket mengetahui lokasi-lokasi yang terdapat fasilitas parkir gratis dan fasilitas lainnya. sehingga pengguna tidak perlu khawatir tentang biaya tambahan pada parkir. dengan menggunakan website ini pelanggan dapat menikmati pengalaman berbelanja lebih nyaman. selain itu, terdapat fasilitas seperti ATM dan UMKM yang meningkatkan kemudahan pengguna dalam memilih minimarket sesuai kebutuhan pengguna. <br/>
 
 ## BAB 2 BAHASA PEMROGRAMAN DAN APLIKASI YANG DIGUNAKAN<br/>
-### 2.1 HTML	<br/>
+
+### 2.1 HTML <br/>
+
+HTML adalah singkatan dari Hypertext Markup Language, yang merupakan bahasa markup standar untuk membuat halaman web dan aplikasi web.
+Ini digunakan untuk menyusun konten di web dengan mendefinisikan makna dan tata letak teks, gambar, tautan, dan elemen lainnya. Elemen HTML diwakili oleh tag yang tertutup dalam tanda kurung sudut, seperti < head >,< title >,< body >, dll. HTML sangat penting untuk pengembangan web dan merupakan dasar dari sebagian besar situs web di internet.( Izzeddin Gur, 2022)<br/>
+
 ### 2.2	CSS	<br/>
 ### 2.3	JAVASCRIPT	<br/>
 ### 2.4	CSS SKELETON / GETSKELETON	<br/>
