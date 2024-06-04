@@ -30,6 +30,9 @@ JavaScript adalah bahasa pemrograman tingkat tinggi yang ditafsirkan terutama di
 Skeleton adalah Framework CSS yang ringan dan responsif yang dirancang untuk memberikan kerangka kerja dasar untuk pengembangan web. Ini terdiri dari grid sederhana, elemen dasar seperti tombol, formulir, dan tipografi, serta beberapa komponen responsif yang memungkinkan pengembang memulai proyek web dengan cepat tanpa harus menulis CSS dari awal.<br/>
 
 ### 2.5	VISUAL STUDIO CODE	<br/>
+
+Visual Studio Code (VS Code) adalah editor kode sumber gratis dan populer untuk Windows, macOS, Linux, dan web.Fitur utamanya termasuk penyorotan sintaks, pelengkapan kode cerdas, debugging, kontrol versi Git, dan ekstensi yang dapat disesuaikan. VS Code dikenal ringan namun kuat, menjadikannya pilihan populer untuk developer dalam membangun dan mendebug aplikasi web dan cloud modern.
+
 ### 2.6	NODE JS	<br/>
 
 ## BAB 3 PERANCANGAN APLIKASI<br/>
