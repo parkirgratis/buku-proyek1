@@ -31,10 +31,16 @@ Skeleton adalah Framework CSS yang ringan dan responsif yang dirancang untuk mem
 
 ### 2.5	VISUAL STUDIO CODE	<br/>
 
-Visual Studio Code (VS Code) adalah editor kode sumber gratis dan populer untuk Windows, macOS, Linux, dan web.Fitur utamanya termasuk penyorotan sintaks, pelengkapan kode cerdas, debugging, kontrol versi Git, dan ekstensi yang dapat disesuaikan. VS Code dikenal ringan namun kuat, menjadikannya pilihan populer untuk developer dalam membangun dan mendebug aplikasi web dan cloud modern.
+Visual Studio Code (VS Code) adalah editor kode sumber gratis dan populer untuk Windows, macOS, Linux, dan web.Fitur utamanya termasuk penyorotan sintaks, pelengkapan kode cerdas, debugging, kontrol versi Git, dan ekstensi yang dapat disesuaikan. VS Code dikenal ringan namun kuat, menjadikannya pilihan populer untuk developer dalam membangun dan mendebug aplikasi web dan cloud modern.<br/>
 
 ### 2.6	NODE JS	<br/>
 
-Node.js adalah lingkungan runtime JavaScript populer untuk membangun aplikasi web. Ini memungkinkan pengembang untuk menulis kode sisi server di JavaScript dan mengelola sisi klien dan server. Node.js memastikan kinerja tinggi melalui input/output yang digerakkan oleh peristiwa, non-pemblokiran, dan paradigma asinkron.(Bonjar Basumatary, Nishant Agnihotri 2022)
+Node.js adalah lingkungan runtime JavaScript populer untuk membangun aplikasi web. Ini memungkinkan pengembang untuk menulis kode sisi server di JavaScript dan mengelola sisi klien dan server. Node.js memastikan kinerja tinggi melalui input/output yang digerakkan oleh peristiwa, non-pemblokiran, dan paradigma asinkron.(Bonjar Basumatary, Nishant Agnihotri 2022)<br/>
+
+### 2.7 MONGODB<br/>
+
+MongoDB adalah basis data NoSQL yang bersifat document based. MongoDB bersifat document based artinya MongoDB tidak memilki tabel,
+kolom ataupun baris. MongoDB hanya memilki koleksi dan dokumen.Data yang disimpan dalam basis data MongoDB berupa file JSON yang disebut dengan istilah BSON (Binary JSON).Sistem basis data MongoDB menggunakan key-value, artinya setiap dokumen dalam MongoDB dipastikan memilki key (Putra & Rahmayeni, 2016).<br/>
+
 
 ## BAB 3 PERANCANGAN APLIKASI<br/>
