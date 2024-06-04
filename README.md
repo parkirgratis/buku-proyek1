@@ -35,4 +35,6 @@ Visual Studio Code (VS Code) adalah editor kode sumber gratis dan populer untuk 
 
 ### 2.6	NODE JS	<br/>
 
+Node.js adalah lingkungan runtime JavaScript populer untuk membangun aplikasi web. Ini memungkinkan pengembang untuk menulis kode sisi server di JavaScript dan mengelola sisi klien dan server. Node.js memastikan kinerja tinggi melalui input/output yang digerakkan oleh peristiwa, non-pemblokiran, dan paradigma asinkron.(Bonjar Basumatary, Nishant Agnihotri 2022)
+
 ## BAB 3 PERANCANGAN APLIKASI<br/>
