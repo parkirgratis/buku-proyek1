@@ -31,7 +31,7 @@ Skeleton adalah Framework CSS yang ringan dan responsif yang dirancang untuk mem
 
 ### 2.5	VISUAL STUDIO CODE	<br/>
 
-Visual Studio Code (VS Code) adalah editor kode sumber gratis dan populer untuk Windows, macOS, Linux, dan web.Fitur utamanya termasuk penyorotan sintaks, pelengkapan kode cerdas, debugging, kontrol versi Git, dan ekstensi yang dapat disesuaikan. VS Code dikenal ringan namun kuat, menjadikannya pilihan populer untuk developer dalam membangun dan mendebug aplikasi web dan cloud modern.<br/>
+Visual Studio Code adalah editor kode sumber yang ringan namun kuat yang berjalan di desktop Anda dan tersedia untuk Windows, macOS dan Linux. Muncul dengan dukungan built-in untuk JavaScript, TypeScript dan Node.js dan memiliki ekosistem ekstensi yang kaya untuk bahasa dan runtime lain (seperti C ++, C #, Java, Python, PHP, Go, .NET).(Code.visualstudio.com 05 juni 2024) <br/>
 
 ### 2.6	NODE JS	<br/>
 
