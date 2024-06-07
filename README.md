@@ -1,6 +1,6 @@
-# WEBSITE INFORMASI PARKIR GRATIS PADA MAP
+# INFORMASI PARKIR GRATIS 
 
-## BAB 1 PENGENALAN WEBSITE PERKIR GRATIS<br/>
+## BAB 1 PENGENALAN WEBSITE PARKIR GRATIS<br/>
 
 ### 1.1  Apa itu Website parkir gratis <br/>
 
@@ -80,3 +80,7 @@ Lalu kita jalankan kode tersebut dengan klik Go live seperti gambar di bawah.
 
 
 ![alt text](image-4.png)
+
+
+Langkah selanjutnya adalah membuat marker pada map
+
