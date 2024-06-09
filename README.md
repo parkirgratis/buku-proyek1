@@ -58,17 +58,17 @@ http://getskeleton.com dan jangan lupa menginstall node js.
 
 3. isi kode program seperti gambar di bawah.
 
-![alt text](image.png)
+![alt text](img/index.png)
 
 Disini kita membuat link pada skypack ini adalah tautan ke lembar gaya css Dari open layer. Yang digunakan untuk styling elemen elemen pada peta. Lalu ada link rel untuk menghubungkan ke skeleton css yang sudah di dowload.Di body kita menambahkan div id=”map” ini untuk menampung peta interaktif Yang akan dibuat menggunakan open layer. Dan tag javascript untuk Menambahkan fungsi ke peta pada open layer.
 
-![alt text](image-1.png)
+![alt text](img/css.png)
 
 Lalu menambahkan css pada file skeleton.css yang sudah di dowload di getskeleton.com Tambahkan kode di paling bawah kode ini untuk mengatur posisi dan Lebar pada map.
 
 lalu kita membuat file main.js
 
-![alt text](image-2.png)
+![alt text](img/main.js.png)
 
 Disini terdapat modul modul dari open layer yang akan diimport ke kode. Ada map Untuk membangun objek peta, View untuk mengatur tampilan peta, TileLayer untuk menambahkan lapisan peta berbasis tile, OSM (OpenStreetMap) sebagai sumber data lapisan tile, dan Overlay untuk menambahkan elemen overlay di atas peta, fromlonlatFungsi ini digunakan untuk mengonversi koordinat geografis dari format longitude dan latitude menjadi format yang sesuai dengan sistem proyeksi yang digunakan oleh peta OpenLayers. 
 
@@ -76,11 +76,27 @@ Lalu disini ada target map untuk menentukan elemen HTML dengan id map sebagaiTar
 
 Lalu kita jalankan kode tersebut dengan klik Go live seperti gambar di bawah.
 
-![alt text](image-3.png)
+![alt text](img/run.png)
 
 
-![alt text](image-4.png)
+![alt text](img/map.png)
 
 
-Langkah selanjutnya adalah membuat marker pada map
+Langkah selanjutnya adalah membuat fungsi marker dan fungsi popup pada map kita perlu membuat file seperti gambar di bawah.
+
+![alt text](img/image-2.png)
+
+lalu kita isi marker.js dengan membuat fungsi createmarker.
+
+![alt text](img/image-1.png)
+
+Fungsi createMarker ini untuk membuat dan menampilkan marker pada peta OpenLayers dengan menggunakan koordinat geografis yang akan di buat. Fungsi createMarkerElement membuat elemen HTML untuk marker dengan gambar yang disesuaikan, dan marker ditambahkan ke peta dan fungsi mengembalikan objek marker yang telah dibuat.
+
+lalu setelah itu kita juga membuat fungsi popup yang akan keluar setelah marker di klik.
+
+![alt text](img/carbon%20(8).png)
+
+Disini adalah fungsi untuk membuat popup pada marker yang telah di buat fungsi createPopups membuat pop-up berdasarkan koordinat yang diberikan dan memasukkannya ke peta. Fungsi displayPopup menampilkan konten pada pop-up dan menempatkannya di posisi yang ditentukan sesuai dengan lonlat yang dibuat di marker. Fungsi setPositioning mengatur posisi pop-up relatif terhadap koordinat yang diberikan.
+
+
 
