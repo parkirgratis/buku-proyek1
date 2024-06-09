@@ -99,4 +99,11 @@ lalu setelah itu kita juga membuat fungsi popup yang akan keluar setelah marker 
 Disini adalah fungsi untuk membuat popup pada marker yang telah di buat fungsi createPopups membuat pop-up berdasarkan koordinat yang diberikan dan memasukkannya ke peta. Fungsi displayPopup menampilkan konten pada pop-up dan menempatkannya di posisi yang ditentukan sesuai dengan lonlat yang dibuat di marker. Fungsi setPositioning mengatur posisi pop-up relatif terhadap koordinat yang diberikan.
 
 
+lalu kita mengimport fungsi yang sudah di buat tadi masukan ke dalam main.js
+
+![alt text](img/carbon%20(9).png)
+
+kode di atas yaitu membuat untuk mengambil data marker dan pop-up dari URL fetch yang akan di ambil dari backend yang nanti akan dibuat. Data marker dan pop-up diambil melalui fetch. Sementara marker dibuat dengan createMapMarkers, pop-up dibuat dengan initializeMapPopups. Saat peta diklik di area marker,maka di map akan menampilkan popup yang terdapat di dalamnya isi dari url popup yang akan di tambahkan dari backend. dan saat peta diklik di area kosong, semua pop-up disembunyikan. dan memungkinkan pengguna melihat pop-up dan informasi marker pada peta interaktif.
+
+
 
