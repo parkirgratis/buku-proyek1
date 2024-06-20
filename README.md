@@ -1,5 +1,14 @@
 # INFORMASI PARKIR GRATIS 
 
+### KATA PENGANTAR
+
+Segala puji bagi Allah, Tuhan Yang Maha Esa atas karunia dan rahmat-Nya sehingga penulis dapat menyelesaikan buku ini. Sholawat serta salam semoga senantiasa tercurahkan kepada Nabi Besar Muhammad SAW.
+Kami ucapkan juga rasa terima kasih kami kepada pihak-pihak yang mendukung lancaranya pembuatan buku ini mulai dari proses penulisan hingga proses cetak, yaitu orang tua kami, pembimbing kami, rekan-rekan kami, dan masih banyak lagi yang tidak bisa kami sebutkan satu per satu.
+Adapun, buku kami yang membahas tentang Sistem Informasi Parkir Gratis ini telah selesai kami buat semaksimal dan sebaik mungkin agar menjadi manfaat bagi pembaca yang membutuhkan informasi dalam mengembangkan sistem informasi parkir gratis pada map yang efisien dan ekonomis.
+Kami sadar, masih banyak kekeliruan yang tentu saja jauh dari sempurna dalam buku ini. Oleh karena itu, kami mohon agar pembaca memberi kritik serta saran terhadap buku ini agar kami dapat terus meningkatkan kualitasnya. Demikian buku ini kami buat, dengan harapan agar pembaca dapat memahami informasi mengenai sistem informasi parkir gratis dan mendapatkan wawasan yang bermanfaat bagi masyarakat luas Terima kasih.
+
+
+
 ## BAB 1 PENGENALAN WEBSITE PARKIR GRATIS<br/>
 
 ### 1.1  Apa itu Website parkir gratis <br/>
