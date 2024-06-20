@@ -7,6 +7,12 @@ Kami ucapkan juga rasa terima kasih kami kepada pihak-pihak yang mendukung lanca
 Adapun, buku kami yang membahas tentang Sistem Informasi Parkir Gratis ini telah selesai kami buat semaksimal dan sebaik mungkin agar menjadi manfaat bagi pembaca yang membutuhkan informasi dalam mengembangkan sistem informasi parkir gratis pada map yang efisien dan ekonomis.
 Kami sadar, masih banyak kekeliruan yang tentu saja jauh dari sempurna dalam buku ini. Oleh karena itu, kami mohon agar pembaca memberi kritik serta saran terhadap buku ini agar kami dapat terus meningkatkan kualitasnya. Demikian buku ini kami buat, dengan harapan agar pembaca dapat memahami informasi mengenai sistem informasi parkir gratis dan mendapatkan wawasan yang bermanfaat bagi masyarakat luas Terima kasih.
 
+### PRAKATA
+
+Pada era teknologi yang terus berkembang, teknologi telah masuk ke berbagai aspek kehidupan kita, termasuk cara kita mengelola fasilitas umum seperti parkir. Salah satu inovasi yang semakin populer adalah sistem informasi parkir gratis berbasis peta open street map, yang membuat mencari dan mengelola informasi parkir gratis lebih mudah dan lebih fleksibel.
+Sistem informasi parkir gratis ini menggabungkan teknologi internet dengan manajemen parkir. Dalam hal ini, pengguna dapat menggunakan web untuk menemukan parkir gratis di berbagai lokasi. Informasi ini terdapat lokasi tempat parkir pada map di marker yang sudah dibuat dan lokasi sudah di survei sebelum memasukan data pada map.
+Tujuan dari buku ini adalah untuk memberikan petunjuk tentang cara membuat sistem informasi parkir gratis berbasis peta digital yang mudah diakses oleh masyarakat. Buku ini disusun dengan cara yang mudah diikuti oleh pembaca pemula, dan setiap bagian memiliki penjelasan rinci yang disertai dengan gambar dan contoh kode program.
+Kami berharap pembaca yang tertarik untuk membangun sistem serupa dapat menggunakan buku ini sebagai sumber inspirasi dan panduan praktis. Anda dapat mengakses semua kode program yang disajikan dalam buku ini melalui tautan berikut: https://github.com/parkirgratis/parkirgratis.github.io
 
 
 ## BAB 1 PENGENALAN WEBSITE PARKIR GRATIS<br/>
