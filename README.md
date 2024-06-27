@@ -1,27 +1,4 @@
-# INFORMASI PARKIR GRATIS 
-
-## DAFTAR ISI 
-### KATA PENGANTAR
-### PRAKATA
-### DAFTAR ISI
-### DAFTAR GAMBAR
-### BAB I PENGENALAN WEBSITE PARKIR GRATIS
-### 1.1 Apa itu Website parkir gratis
-### 1.2 Tujuan dan manfaat Website parkir gratis
-### BAB II BAHASA DAN APLIKASI YANG DIGUNAKAN SERTA PENGINSTALANNYA
-### 2.1 Bahasa pemrograman yang digunakan
-### 2.1.1 HTML
-### 2.1.2 CSS
-### 2.1.3 JAVASCRIPT
-### 2.1.4 CSS SKELETON / GETSKELETON
-### 2.1.5 NODE JS
-### 2.1.6 Golang
-### 2.2 Aplikasi yang digunakan
-### 2.1 Visual Studio Code
-### 2.2 Mongodb
-### 2.3 Instalasi aplikasI
-### 2.3.1 Visual studio code
-### BAB III	PERANCANGAN APLIKASI
+# Website informasi parkir gratis bandung 
 
 ## DAFTAR ISI 
 ### KATA PENGANTAR
