@@ -146,7 +146,7 @@ kolom ataupun baris. MongoDB hanya memilki koleksi dan dokumen.Data yang disimpa
 
 9. Setting environment masuk ke setting masuk ke environment setting klik environment variable klik new masukan variable MONGOSTRING dan value masukan connection string anda dan save.
 
-![alt text](image-8.png)
+![alt text](image-16.png)
 
 10. Buka Mongo DB Compas, Kemudian Add New Connection, tempe connection string yang sudah di salin tadi, ganti kurung sikunya dengan password yang sudah disimpan tadi lalu pilih connect. 
 
@@ -168,7 +168,7 @@ kolom ataupun baris. MongoDB hanya memilki koleksi dan dokumen.Data yang disimpa
 
 3. Pilih PATH klik edit pilih new dan masukan C:\Go\bin seperti pada gambar di bawah.
 
-![alt text](image-13.png)
+![alt text](image-17.png)
 
 4. setelah menambahkan path lalu cek golang di Command Prompt dengan mengetik go version.
 
