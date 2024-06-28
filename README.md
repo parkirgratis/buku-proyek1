@@ -156,6 +156,23 @@ kolom ataupun baris. MongoDB hanya memilki koleksi dan dokumen.Data yang disimpa
 
 ![alt text](image-10.png)
 
+### 2.3.3 GOLANG
+
+1. Instalasi Golang melalui link ini https://go.dev/dl/ lalu pilih Microsoft window.
+
+![alt text](image-11.png)
+
+2. Setelah menginstall golang lalu masuk setting Environment, lalu pilih environment Variable.
+
+![alt text](image-12.png)
+
+3. Pilih PATH klik edit pilih new dan masukan C:\Go\bin seperti pada gambar di bawah.
+
+![alt text](image-13.png)
+
+4. setelah menambahkan path lalu cek golang di Command Prompt dengan mengetik go version.
+
+![alt text](image-14.png)
 
 ## BAB 3 PERANCANGAN APLIKASI<br/>
 
