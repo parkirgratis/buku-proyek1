@@ -112,6 +112,51 @@ kolom ataupun baris. MongoDB hanya memilki koleksi dan dokumen.Data yang disimpa
 
 ### 2.3.2 Mongodb
 
+1. Pertama anda perlu membuat akun mongodb pada website ini https://www.mongodb.com/ lalu anda bisa klik start free pada gambar di bawah ini.
+
+![alt text](image.png)
+
+2. Setelah itu anda akan diarahkan untuk membuat akun mongodb.
+
+![alt text](image-1.png)
+
+3. Setelah anda berhasil membuat akun/signup anda harus mengisi data di bawah sesuai dengan kebutuhan.
+
+![alt text](image-2.png)
+
+4. Pada halaman deploy ini pilih free plan lalu nama sesuaikan saja, pada provider pilih Google Cloud, pada region pilih Jakarta, dan nama cluster sesuaikan saja lalu pilih Create Deployment.
+
+![alt text](image-3.png)
+
+5. Setelah itu ganti password agar tidak pusing lalu pilih Create Database User.
+
+![alt text](image-4.png)
+
+6. Lalu pada connection method pilih compass.
+
+![alt text](image-5.png)
+
+7. Jika anda belum menginstall mongocompass klik dowload compas pada gambar di bawah lalu copy connection string di paling bawah.
+
+![alt text](image-6.png)
+
+8. Pada mongodb.com untuk dapat diakses pada semua IP Address, pada security klik network acces klik ALLOW ACCESS FROM ANYWHERE atau dengan menuliskan 0.0.0.0/0
+
+![alt text](image-7.png)
+
+9. Setting environment masuk ke setting masuk ke environment setting klik environment variable klik new masukan variable MONGOSTRING dan value masukan connection string anda dan save.
+
+![alt text](image-8.png)
+
+10. Buka Mongo DB Compas, Kemudian Add New Connection, tempe connection string yang sudah di salin tadi, ganti kurung sikunya dengan password yang sudah disimpan tadi lalu pilih connect. 
+
+![alt text](image-9.png)
+
+11. Struktur tabel/collection di MongoDB sudah terlihat dan terdapat data dalam bentuk json.
+
+![alt text](image-10.png)
+
+
 ## BAB 3 PERANCANGAN APLIKASI<br/>
 
 ### 3.1 FRONTEND<br/>
