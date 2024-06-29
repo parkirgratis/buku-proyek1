@@ -174,6 +174,26 @@ kolom ataupun baris. MongoDB hanya memilki koleksi dan dokumen.Data yang disimpa
 
 ![alt text](image-14.png)
 
+### 2.3.4 EKSTENSI GOLANG
+
+Ekstensi yang dibutuhkan saat menggunakan golang di visual studio code.
+
+1. Ekstensi Go 
+Hal yang paling penting dalam pengembangan golang, agar bisa menggunakan bahasa golang pada proyek yang akan di bangun.
+
+![alt text](image-18.png)
+
+2.	Ekstensi Error Lens
+Ekstensi untuk menyorot langsung jika ada kesalahan pada kode maka akan ada peringatan langsung pada editor kita.
+
+![alt text](image-19.png)
+
+3. Ekstensi Live
+Live Server ini untuk run code di lokal tanpa harus reset halaman browser.
+
+![alt text](image-20.png)
+
+
 ## BAB 3 PERANCANGAN APLIKASI<br/>
 
 ### 3.1 FRONTEND<br/>
