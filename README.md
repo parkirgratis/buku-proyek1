@@ -78,13 +78,7 @@ JavaScript adalah bahasa pemrograman tingkat tinggi yang ditafsirkan terutama di
 
 Skeleton adalah Framework CSS yang ringan dan responsif yang dirancang untuk memberikan kerangka kerja dasar untuk pengembangan web. Ini terdiri dari grid sederhana, elemen dasar seperti tombol, formulir, dan tipografi, serta beberapa komponen responsif yang memungkinkan pengembang memulai proyek web dengan cepat tanpa harus menulis CSS dari awal.<br/>
 
-### 2.1.5	NODE JS	<br/>
-
-![alt text](img/nodejs.png)
-
-Node.js adalah lingkungan runtime JavaScript populer untuk membangun aplikasi web. Ini memungkinkan pengembang untuk menulis kode sisi server di JavaScript dan mengelola sisi klien dan server. Node.js memastikan kinerja tinggi melalui input/output yang digerakkan oleh peristiwa, non-pemblokiran, dan paradigma asinkron.(Bonjar Basumatary, Nishant Agnihotri 2022)<br/>
-
-### 2.1.6	Golang
+### 2.1.5	Golang
 
 ![alt text](img/golang.png)
 
@@ -248,7 +242,6 @@ http://getskeleton.com dan jangan lupa menginstall node js.
 
 Disini kita membuat link pada skypack ini adalah tautan ke lembar gaya css Dari open layer. Yang digunakan untuk styling elemen elemen pada peta. Lalu ada link rel untuk menghubungkan ke skeleton css yang sudah di dowload.Di body kita menambahkan div id=”map” ini untuk menampung peta interaktif Yang akan dibuat menggunakan open layer. Dan tag javascript untuk Menambahkan fungsi ke peta pada open layer.
 
-![alt text](img/css.png)
 
 Lalu menambahkan css pada file skeleton.css yang sudah di dowload di getskeleton.com Tambahkan kode di paling bawah kode ini untuk mengatur posisi dan Lebar pada map.
 
