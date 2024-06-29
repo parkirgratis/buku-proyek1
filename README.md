@@ -110,6 +110,41 @@ kolom ataupun baris. MongoDB hanya memilki koleksi dan dokumen.Data yang disimpa
 
 ### 2.3.1 Visual Studio Code
 
+1.	Kunjungi website resmi visual studio code di https://code.visualstudio.com
+
+![alt text](image-21.png)
+
+2.	Di halaman utama, anda akan melihat tombol unduh untuk windows, linux, dan macOS. Silahkan klik tombol unduh yang sesuai dengan sistemoperasi anda.
+3.	Setelah unduhan selesai, temukan file yang telah diunduh di perangkatanda.
+4.	Lalu buka file yang sudah di download, maka akan menampilkan sepertigambar dibawah, pilih bagian “I accept the agreement”, lalu klik Next.
+
+![alt text](image-22.png)
+
+5.	Untuk Select Destination Location bisa dibiarkan saja jika lokasi instalasitidak akan dirubah. Klik Next.
+
+![alt text](image-23.png)
+
+6.	Kemudian, apabila muncul tampilan Select Start Menu Folder sepertigambar di bawah, klik Next lagi jika tidak akan merubah Start Menu Folder.
+
+![alt text](image-24.png)
+
+7.	Selanjutnya, jika muncul tampilan Select Additional Tasks seperti gambardibawah, centang semua. Kemudian Next.
+
+![alt text](image-25.png)
+
+8.	Setelah itu, klik Install untuk memulai proses instalasi.
+
+![alt text](image-26.png)
+
+9.	Lalu tunggu sampai proses instalasi selesai.
+
+![alt text](image-27.png)
+
+10.	Setelah selesai, klik Finish.
+
+![alt text](image-28.png)
+
+
 ### 2.3.2 Mongodb
 
 1. Pertama anda perlu membuat akun mongodb pada website ini https://www.mongodb.com/ lalu anda bisa klik start free pada gambar di bawah ini.
