@@ -242,17 +242,31 @@ Live Server ini untuk run code di lokal tanpa harus reset halaman browser.
 
 1.	Daftar melalui  https://cloud.google.com/ dan tekan mulai gratis
 
+![alt text](img/image-29.png)
+
 2.	Masukan email yang benar lalu  tekan agree
+
+![alt text](img/image-30.png)
 
 3.	masukan payment method seperti gambar di bawah. menggunakan kartu debit bisa memakai jenius, ayamjago dll.
 
+![alt text](img/image-31.png)
+
 4.	Setelah itu masuk ke konsol dan masukan command seperti pada gambar di bawah.
+
+![alt text](img/image-32.png)
 
 5. sampai mendapatkan key.json pada konsol .
 
+![alt text](img/image-33.png)
+
 6. setelah mendapatkan key.json masuk ke setting pada repository backend masuk ke secret and variable pilih action klik new repository secret masukan value MONGOSTRING dan masukan secret dengan connection string MongoDB kalian lalu tambahkan lagi value google_credential dan masukan value dengan copy key.json di atas yang sudah dibuat.
 
+![alt text](img/image-34.png)
+
 7.	masuk ke menu Cloud Build masuk ke setting pilih service account dan enable Cloud Function Developer dan Service Account User.
+
+![alt text](img/image-35.png)
 
 
 ### 3.1 FRONTEND<br/>
