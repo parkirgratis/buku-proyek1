@@ -5,23 +5,45 @@
 ### PRAKATA
 ### DAFTAR ISI
 ### DAFTAR GAMBAR
-### BAB I PENGENALAN WEBSITE PARKIR GRATIS
-### 1.1 Apa itu Website parkir gratis
-### 1.2 Tujuan dan manfaat Website parkir gratis
-### BAB II BAHASA DAN APLIKASI YANG DIGUNAKAN SERTA PENGINSTALANNYA
-### 2.1 Bahasa pemrograman yang digunakan
-### 2.1.1 HTML
-### 2.1.2 CSS
-### 2.1.3 JAVASCRIPT
-### 2.1.4 CSS SKELETON / GETSKELETON
-### 2.1.5 NODE JS
-### 2.1.6 Golang
-### 2.2 Aplikasi yang digunakan
-### 2.1 Visual Studio Code
-### 2.2 Mongodb
-### 2.3 Instalasi aplikasI
-### 2.3.1 Visual studio code
-### BAB III	PERANCANGAN APLIKASI
+### CHAPTER 1 PENGENALAN (WEEK 1)
+### 1.3 Bahasa pemrograman yang digunakan
+### 1.3.1 HTML
+### 1.3.2 CSS
+### 1.3.3 JAVASCRIPT
+### 1.3.4 CSS SKELETON / GETSKELETON
+### 1.3.5 Golang
+### 1.4 Aplikasi yang digunakan
+### 1.4.1 Visual Studio Code
+### 1.4.2 Mongodb
+### 1.4.3 Instalasi aplikasI
+### 1.4.4 Visual studio code
+### CHAPTER 2 PERSIAPAN LINGKUNGAN DAN PENGEMBANGAN (WEEK 1)
+### 2.1 Instalasi Visual Studio Code
+### 2.1 Instalasi Mongodb
+### 2.1 Ekstensi yang digunakan pada golang
+### CHAPTER 3 MEMBANGUN BACKEND (WEEK 2-3)
+### 3.1 Hosting menggunakan GOOGLE CLOUD PLATFORM (GCP)
+### 3.2 Membangun backend menggunakan golang 
+### 3.3 Testing API menggunakan postman
+### CHAPTER 4 MEMBANGUN FRONTEND (WEEK 3-4)
+### 4.1 Struktur pada frontend 
+### 4.1.1 Halaman utama (index.html)
+### 4.1.2 Desain halaman utama (style.css)
+### 4.1.3 Fungsi Halaman utama ( File  javaScript/ Controller)	
+### 4.1.4 Halaman Login (login.html)	
+### 4.1.5 Desain Halaman Login (login.css)	
+### 4.1.6 Fungsi Halaman Login (login.js)	
+### 4.1.7 Halaman Admin (admin.html)	
+### 4.1.8 Desain Halaman Admin (admin.css)	
+### 4.1.9 Fungsi Halaman Admin (admin.js)	
+### CHAPTER 5  TAMPILAN WESBSITE YANG SUDAH DIBUAT (week 4)	
+### 5.1	Tampilan Map dan Marker	
+### 5.2	Tampilan Popup dan Form	
+### 5.3	Tampilan Login Admin	
+### 5.4	Tampilan Dashboard Admin	
+### DAFTAR PUSTAKA	
+### GLOSARIUM	
+### INDEKS	
 
 ### KATA PENGANTAR
 
