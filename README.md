@@ -268,6 +268,46 @@ Live Server ini untuk run code di lokal tanpa harus reset halaman browser.
 
 ![alt text](img/image-35.png)
 
+### 3.2 Membangun backend menggunakan golang 
+
+1.	Struktur Golang untuk backend
+
+![alt text](img/image-29.png)
+
+Struktur backend Go mencakup berbagai komponen penting seperti konfigurasi,controller, helper, model, dan route, yang masing masing memiliki peran spesifik dalam arsitektur aplikasi yang setiap komponennya berfungsi dan berinteraksi satu sama lain membangun aplikasi yang terorganisir.
+
+2.	Config 
+
+![alt text](image-30.png)
+
+Folder konfigurasi merupakan file kunci yang digunakan untuk mengatur aplikasi atau sistem. Di dalamnya terdapat berbagai pengaturan penting yang menentukan cara kerja aplikasi atau sistem tersebut. Pengaturan ini dapat mencakup konfigurasi database, pengaturan lingkungan, koneksi ke layanan eksternal, dan banyak lagi yang diperlukan agar sistem berjalan dengan lancar dan sesuai kebutuhan.
+
+3.	Controller
+
+![alt text](image-31.png)
+
+Controller ini untuk menangani permintaan HTTP dan mengarahkan alur aplikasi di dalamnya terdapat func yang akan dibuat dari Model yang telah dibuat lalu memanggil func tersebut pada route.
+
+4.	Helper
+
+![alt text](image-32.png)
+
+Folder helper berisi fungsi-fungsi kecil yang sering digunakan di berbagai bagian aplikasi. Fungsi-fungsi ini disebut fungsi helper atau fungsi utilitas. Fungsi helper biasanya digunakan untuk melakukan tugas-tugas umum yang sering diulang, seperti format tanggal, mengelola string, dan validasi data.
+
+5.	Model
+
+![alt text](image-33.png)
+
+ Folder model merupakan bagian penting dalam arsitektur aplikasi, membantu mengelola data dan aturan aplikasi dengan lebih terorganisir, aman, dan rapi. Gunakan folder model untuk membangun aplikasi yang kokoh dan mudah dikembangkan.
+
+ 6.	Route
+
+ ![alt text](image-34.png)
+
+ Folder route ini berisi konfigurasi routing untuk aplikasi, seperti definisi endpoint dan menghubungkan fungsi-fungsi yang sudah dibuat pada controller. dan membuat endpoint untuk func GET, POST, PUT dan delete.
+ 
+
+
 
 ### 3.1 FRONTEND<br/>
 
