@@ -119,102 +119,102 @@ kolom ataupun baris. MongoDB hanya memilki koleksi dan dokumen.Data yang disimpa
 
 1.	Kunjungi website resmi visual studio code di https://code.visualstudio.com
 
-![alt text](image-21.png)
+![alt text](img/image-21.png)
 
 2.	Di halaman utama, anda akan melihat tombol unduh untuk windows, linux, dan macOS. Silahkan klik tombol unduh yang sesuai dengan sistemoperasi anda.
 3.	Setelah unduhan selesai, temukan file yang telah diunduh di perangkatanda.
 4.	Lalu buka file yang sudah di download, maka akan menampilkan sepertigambar dibawah, pilih bagian “I accept the agreement”, lalu klik Next.
 
-![alt text](image-22.png)
+![alt text](img/image-22.png)
 
 5.	Untuk Select Destination Location bisa dibiarkan saja jika lokasi instalasitidak akan dirubah. Klik Next.
 
-![alt text](image-23.png)
+![alt text](img/image-23.png)
 
 6.	Kemudian, apabila muncul tampilan Select Start Menu Folder sepertigambar di bawah, klik Next lagi jika tidak akan merubah Start Menu Folder.
 
-![alt text](image-24.png)
+![alt text](img/image-24.png)
 
 7.	Selanjutnya, jika muncul tampilan Select Additional Tasks seperti gambardibawah, centang semua. Kemudian Next.
 
-![alt text](image-25.png)
+![alt text](img/image-25.png)
 
 8.	Setelah itu, klik Install untuk memulai proses instalasi.
 
-![alt text](image-26.png)
+![alt text](img/image-26.png)
 
 9.	Lalu tunggu sampai proses instalasi selesai.
 
-![alt text](image-27.png)
+![alt text](img/image-27.png)
 
 10.	Setelah selesai, klik Finish.
 
-![alt text](image-28.png)
+![alt text](img/image-28.png)
 
 
 ### 2.1.2 Mongodb
 
 1. Pertama anda perlu membuat akun mongodb pada website ini https://www.mongodb.com/ lalu anda bisa klik start free pada gambar di bawah ini.
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 2. Setelah itu anda akan diarahkan untuk membuat akun mongodb.
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 3. Setelah anda berhasil membuat akun/signup anda harus mengisi data di bawah sesuai dengan kebutuhan.
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 4. Pada halaman deploy ini pilih free plan lalu nama sesuaikan saja, pada provider pilih Google Cloud, pada region pilih Jakarta, dan nama cluster sesuaikan saja lalu pilih Create Deployment.
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 5. Setelah itu ganti password agar tidak pusing lalu pilih Create Database User.
 
-![alt text](image-4.png)
+![alt text](img/image-4.png)
 
 6. Lalu pada connection method pilih compass.
 
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 7. Jika anda belum menginstall mongocompass klik dowload compas pada gambar di bawah lalu copy connection string di paling bawah.
 
-![alt text](image-6.png)
+![alt text](img/image-6.png)
 
 8. Pada mongodb.com untuk dapat diakses pada semua IP Address, pada security klik network acces klik ALLOW ACCESS FROM ANYWHERE atau dengan menuliskan 0.0.0.0/0
 
-![alt text](image-7.png)
+![alt text](img/image-7.png)
 
 9. Setting environment masuk ke setting masuk ke environment setting klik environment variable klik new masukan variable MONGOSTRING dan value masukan connection string anda dan save.
 
-![alt text](image-16.png)
+![alt text](img/image-16.png)
 
 10. Buka Mongo DB Compas, Kemudian Add New Connection, tempe connection string yang sudah di salin tadi, ganti kurung sikunya dengan password yang sudah disimpan tadi lalu pilih connect. 
 
-![alt text](image-9.png)
+![alt text](img/image-9.png)
 
 11. Struktur tabel/collection di MongoDB sudah terlihat dan terdapat data dalam bentuk json.
 
-![alt text](image-10.png)
+![alt text](img/image-10.png)
 
 ### 2.1.3 GOLANG
 
 1. Instalasi Golang melalui link ini https://go.dev/dl/ lalu pilih Microsoft window.
 
-![alt text](image-11.png)
+![alt text](img/image-11.png)
 
 2. Setelah menginstall golang lalu masuk setting Environment, lalu pilih environment Variable.
 
-![alt text](image-12.png)
+![alt text](img/image-12.png)
 
 3. Pilih PATH klik edit pilih new dan masukan C:\Go\bin seperti pada gambar di bawah.
 
-![alt text](image-17.png)
+![alt text](img/image-17.png)
 
 4. setelah menambahkan path lalu cek golang di Command Prompt dengan mengetik go version.
 
-![alt text](image-14.png)
+![alt text](img/image-14.png)
 
 ### 2.1.4 EKSTENSI GOLANG
 
@@ -223,17 +223,17 @@ Ekstensi yang dibutuhkan saat menggunakan golang di visual studio code.
 1. Ekstensi Go 
 Hal yang paling penting dalam pengembangan golang, agar bisa menggunakan bahasa golang pada proyek yang akan di bangun.
 
-![alt text](image-18.png)
+![alt text](img/image-18.png)
 
 2.	Ekstensi Error Lens
 Ekstensi untuk menyorot langsung jika ada kesalahan pada kode maka akan ada peringatan langsung pada editor kita.
 
-![alt text](image-19.png)
+![alt text](img/image-19.png)
 
 3. Ekstensi Live
 Live Server ini untuk run code di lokal tanpa harus reset halaman browser.
 
-![alt text](image-20.png)
+![alt text](img/image-20.png)
 
 
 ## CHAPTER 3 MEMBANGUN BACKEND (WEEK 2-3)
@@ -272,37 +272,37 @@ Live Server ini untuk run code di lokal tanpa harus reset halaman browser.
 
 1.	Struktur Golang untuk backend
 
-![alt text](img/image-29.png)
+![alt text](img/image-29a.png)
 
 Struktur backend Go mencakup berbagai komponen penting seperti konfigurasi,controller, helper, model, dan route, yang masing masing memiliki peran spesifik dalam arsitektur aplikasi yang setiap komponennya berfungsi dan berinteraksi satu sama lain membangun aplikasi yang terorganisir.
 
 2.	Config 
 
-![alt text](image-30.png)
+![alt text](img/image-30a.png)
 
 Folder konfigurasi merupakan file kunci yang digunakan untuk mengatur aplikasi atau sistem. Di dalamnya terdapat berbagai pengaturan penting yang menentukan cara kerja aplikasi atau sistem tersebut. Pengaturan ini dapat mencakup konfigurasi database, pengaturan lingkungan, koneksi ke layanan eksternal, dan banyak lagi yang diperlukan agar sistem berjalan dengan lancar dan sesuai kebutuhan.
 
 3.	Controller
 
-![alt text](image-31.png)
+![alt text](img/image-31a.png)
 
 Controller ini untuk menangani permintaan HTTP dan mengarahkan alur aplikasi di dalamnya terdapat func yang akan dibuat dari Model yang telah dibuat lalu memanggil func tersebut pada route.
 
 4.	Helper
 
-![alt text](image-32.png)
+![alt text](img/image-32a.png)
 
 Folder helper berisi fungsi-fungsi kecil yang sering digunakan di berbagai bagian aplikasi. Fungsi-fungsi ini disebut fungsi helper atau fungsi utilitas. Fungsi helper biasanya digunakan untuk melakukan tugas-tugas umum yang sering diulang, seperti format tanggal, mengelola string, dan validasi data.
 
 5.	Model
 
-![alt text](image-33.png)
+![alt text](img/image-33a.png)
 
  Folder model merupakan bagian penting dalam arsitektur aplikasi, membantu mengelola data dan aturan aplikasi dengan lebih terorganisir, aman, dan rapi. Gunakan folder model untuk membangun aplikasi yang kokoh dan mudah dikembangkan.
 
  6.	Route
 
- ![alt text](image-34.png)
+ ![alt text](img/image-34a.png)
 
  Folder route ini berisi konfigurasi routing untuk aplikasi, seperti definisi endpoint dan menghubungkan fungsi-fungsi yang sudah dibuat pada controller. dan membuat endpoint untuk func GET, POST, PUT dan delete.
  
@@ -347,11 +347,11 @@ Lalu kita jalankan kode tersebut dengan klik Go live seperti gambar di bawah.
 
 Langkah selanjutnya adalah membuat fungsi marker dan fungsi popup pada map kita perlu membuat file seperti gambar di bawah.
 
-![alt text](img/image-2.png)
+![alt text](img/imageku.png)
 
 lalu kita isi marker.js dengan membuat fungsi createmarker.
 
-![alt text](img/image-1.png)
+![alt text](img/imagekuh.png)
 
 Fungsi createMarker ini untuk membuat dan menampilkan marker pada peta OpenLayers dengan menggunakan koordinat geografis yang akan di buat. Fungsi createMarkerElement membuat elemen HTML untuk marker dengan gambar yang disesuaikan, dan marker ditambahkan ke peta dan fungsi mengembalikan objek marker yang telah dibuat.
 
