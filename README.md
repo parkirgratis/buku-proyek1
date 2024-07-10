@@ -374,3 +374,9 @@ kode di atas yaitu membuat untuk mengambil data marker dan pop-up dari URL fetch
 5.1	Tampilan Map dan Marker
 
 ![alt text](img/image-1.png)
+
+5.2	Tampilan Popup dan Form 
+
+![alt text](img/image-2.png)
+
+
