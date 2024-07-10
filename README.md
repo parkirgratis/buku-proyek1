@@ -369,4 +369,8 @@ lalu kita mengimport fungsi yang sudah di buat tadi masukan ke dalam main.js
 kode di atas yaitu membuat untuk mengambil data marker dan pop-up dari URL fetch yang akan di ambil dari backend yang nanti akan dibuat. Data marker dan pop-up diambil melalui fetch. Sementara marker dibuat dengan createMapMarkers, pop-up dibuat dengan initializeMapPopups. Saat peta diklik di area marker,maka di map akan menampilkan popup yang terdapat di dalamnya isi dari url popup yang akan di tambahkan dari backend. dan saat peta diklik di area kosong, semua pop-up disembunyikan. dan memungkinkan pengguna melihat pop-up dan informasi marker pada peta interaktif.
 
 
+### CHAPTER 5  TAMPILAN WESBSITE YANG SUDAH DIBUAT (week 4)	
 
+5.1	Tampilan Map dan Marker
+
+![alt text](img/image-1.png)
