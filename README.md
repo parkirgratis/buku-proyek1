@@ -306,67 +306,16 @@ Folder helper berisi fungsi-fungsi kecil yang sering digunakan di berbagai bagia
 
  Folder route ini berisi konfigurasi routing untuk aplikasi, seperti definisi endpoint dan menghubungkan fungsi-fungsi yang sudah dibuat pada controller. dan membuat endpoint untuk func GET, POST, PUT dan delete.
  
+### CHAPTER 4 : MEMBANGUN FRONTEND (week 3-4)
 
+### 4.1	Struktur  pada frontend
 
+Struktur frontend mencakup halaman-halaman  pada web yang akan menjadi halaman utama sebagai halaman yang digunakan oleh user,halaman  login sebagai halaman  mengatur akses bagi admin untuk memasuki halaman admin, dan halaman admin merupakan halaman yang berfungsi mengatur data yang ada  seperti mengubah ataupun menghapus data yang ada.
 
-### 3.1 FRONTEND<br/>
+Ini adalah structure frontend yang akan dibuat.
 
-Hal pertama yang harus di lakukan adalah membuat kode untuk membuat open layer. Fitur ini adalah tampilan open street map yang akan muncul pada website Dengan menggunakan bahasa pemrograman javascript dan library dari skypack.
+![alt text](image-1.png)
 
-Berikut adalah langkah-langkah untuk membuat fitur open layer
-
-1. buatlah folder baru dan masuk ke dalam visual studio code.
-
-2. lalu buat file index.html, main.js, skeleton.css bisa mendowload disini
-http://getskeleton.com dan jangan lupa menginstall node js.
-
-3. isi kode program seperti gambar di bawah.
-
-![alt text](img/index.png)
-
-Disini kita membuat link pada skypack ini adalah tautan ke lembar gaya css Dari open layer. Yang digunakan untuk styling elemen elemen pada peta. Lalu ada link rel untuk menghubungkan ke skeleton css yang sudah di dowload.Di body kita menambahkan div id=”map” ini untuk menampung peta interaktif Yang akan dibuat menggunakan open layer. Dan tag javascript untuk Menambahkan fungsi ke peta pada open layer.
-
-
-Lalu menambahkan css pada file skeleton.css yang sudah di dowload di getskeleton.com Tambahkan kode di paling bawah kode ini untuk mengatur posisi dan Lebar pada map.
-
-lalu kita membuat file main.js
-
-![alt text](img/main.js.png)
-
-Disini terdapat modul modul dari open layer yang akan diimport ke kode. Ada map Untuk membangun objek peta, View untuk mengatur tampilan peta, TileLayer untuk menambahkan lapisan peta berbasis tile, OSM (OpenStreetMap) sebagai sumber data lapisan tile, dan Overlay untuk menambahkan elemen overlay di atas peta, fromlonlatFungsi ini digunakan untuk mengonversi koordinat geografis dari format longitude dan latitude menjadi format yang sesuai dengan sistem proyeksi yang digunakan oleh peta OpenLayers. 
-
-Lalu disini ada target map untuk menentukan elemen HTML dengan id map sebagaiTarget peta, layers menentukan lapisan-lapisan yang akan ditampilkan di peta. Dalam kode ini, hanya satu lapisan yang ditambahkan, yaitu TileLayer dengan modul OSM (OpenStreetMap). view menentukan tampilan peta, termasuk properti seperti pusat peta (dalam koordinat geografis) dan tingkat zoom. Center fromLonLat untuk mengonversi koordinat longitude dan latitude ke dalam koordinatyg sudah ditentukan. Dan zoom untuk memperbesar tampilan pada map.
-
-Lalu kita jalankan kode tersebut dengan klik Go live seperti gambar di bawah.
-
-![alt text](img/run.png)
-
-
-![alt text](img/map.png)
-
-
-Langkah selanjutnya adalah membuat fungsi marker dan fungsi popup pada map kita perlu membuat file seperti gambar di bawah.
-
-![alt text](img/imageku.png)
-
-lalu kita isi marker.js dengan membuat fungsi createmarker.
-
-![alt text](img/imagekuh.png)
-
-Fungsi createMarker ini untuk membuat dan menampilkan marker pada peta OpenLayers dengan menggunakan koordinat geografis yang akan di buat. Fungsi createMarkerElement membuat elemen HTML untuk marker dengan gambar yang disesuaikan, dan marker ditambahkan ke peta dan fungsi mengembalikan objek marker yang telah dibuat.
-
-lalu setelah itu kita juga membuat fungsi popup yang akan keluar setelah marker di klik.
-
-![alt text](img/carbon%20(8).png)
-
-Disini adalah fungsi untuk membuat popup pada marker yang telah di buat fungsi createPopups membuat pop-up berdasarkan koordinat yang diberikan dan memasukkannya ke peta. Fungsi displayPopup menampilkan konten pada pop-up dan menempatkannya di posisi yang ditentukan sesuai dengan lonlat yang dibuat di marker. Fungsi setPositioning mengatur posisi pop-up relatif terhadap koordinat yang diberikan.
-
-
-lalu kita mengimport fungsi yang sudah di buat tadi masukan ke dalam main.js
-
-![alt text](img/carbon%20(9).png)
-
-kode di atas yaitu membuat untuk mengambil data marker dan pop-up dari URL fetch yang akan di ambil dari backend yang nanti akan dibuat. Data marker dan pop-up diambil melalui fetch. Sementara marker dibuat dengan createMapMarkers, pop-up dibuat dengan initializeMapPopups. Saat peta diklik di area marker,maka di map akan menampilkan popup yang terdapat di dalamnya isi dari url popup yang akan di tambahkan dari backend. dan saat peta diklik di area kosong, semua pop-up disembunyikan. dan memungkinkan pengguna melihat pop-up dan informasi marker pada peta interaktif.
 
 
 ### CHAPTER 5  TAMPILAN WESBSITE YANG SUDAH DIBUAT (week 4)	
