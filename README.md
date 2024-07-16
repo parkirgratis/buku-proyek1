@@ -322,6 +322,12 @@ Ini adalah structure frontend yang akan dibuat.
 
 Pada code di atas merupakan halaman utama untuk peta open street  dan form untuk memasukan data tempat.
 
+### 4.2.1	Desain Halaman Utama (style.css)
+
+![alt text](image-3.png)
+
+pada bagian ini kita mengatur gaya map dan tampilan popup
+
 
 ### CHAPTER 5  TAMPILAN WESBSITE YANG SUDAH DIBUAT (week 4)	
 
