@@ -316,6 +316,11 @@ Ini adalah structure frontend yang akan dibuat.
 
 ![alt text](image-1.png)
 
+### 4.2	Halaman Utama (index.html)
+
+![alt text](image-2.png)
+
+Pada code di atas merupakan halaman utama untuk peta open street  dan form untuk memasukan data tempat.
 
 
 ### CHAPTER 5  TAMPILAN WESBSITE YANG SUDAH DIBUAT (week 4)	
